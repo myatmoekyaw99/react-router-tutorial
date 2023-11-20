@@ -85,7 +85,7 @@ function Root() {
                                     <i>No Name</i>
                                  )
                                 }{" "}
-                                {contact.favorite && <span>*</span>}
+                                {contact.favorite && <span>★</span>}
                                 </NavLink>
                                 </li>
                             ))}
